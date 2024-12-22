@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ocrosby
-- 👀 I’m interested in Angular, Node, Python, Serverless
-- 🌱 I’m currently learning Python's Flask Framework
+- 👀 I’m interested in Python, React, Golang
+- 🌱 I’m currently learning everything I can about Python
 - 💞️ I’m looking to collaborate on pretty much anything.
 - 📫 How to reach me omar.crosby@gmail.com
 
